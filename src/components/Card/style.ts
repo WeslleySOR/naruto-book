@@ -9,6 +9,7 @@ export const Container = styled('div', {
     borderRadius: '5%',
     maxWidth: '160px',
     height: '160px',
+    boxShadow: '2px 2px 4px #121212',
     'h1': {
         fontSize: 'var(--font-size--medium)',
         fontWeight: 'normal',

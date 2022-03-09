@@ -17,7 +17,7 @@ export const Container = styled('div',{
 export const Content = styled('div', {
     margin: '0 4rem',
     display: 'grid',
-    paddingBottom: '4rem',
+    marginBottom: '4rem',
     gridTemplateColumns: 'repeat(auto-fit, 160px)',
     justifyContent: 'center',
     gap: '1.5rem',
