@@ -1,0 +1,655 @@
+{
+  "classes": [
+    {
+      "name": "Desconhecido"
+    },
+    {
+      "name": "Aluno da Academia"
+    },
+    {
+      "name": "Gennin"
+    },
+    {
+      "name": "Chunnin"
+    },
+    {
+      "name": "Jounin"
+    },
+    {
+      "name": "Jounin de elite"
+    },
+    {
+      "name": "Anbu"
+    },
+    {
+      "name": "Kage"
+    },
+    {
+      "name": "Sannin"
+    },
+    {
+      "name": "Nukenin"
+    }
+  ],
+  "clans": [
+    {
+      "name": "Desconhecido"
+    },
+    {
+      "name": "Aburame"
+    },
+    {
+      "name": "Akimichi"
+    },
+    {
+      "name": "Amagiri"
+    },
+    {
+      "name": "Fūma"
+    },
+    {
+      "name": "Funato"
+    },
+    {
+      "name": "Hagoromo"
+    },
+    {
+      "name": "Hatake"
+    },
+    {
+      "name": "Hirasaka"
+    },
+    {
+      "name": "Hōki"
+    },
+    {
+      "name": "Hōzuki"
+    },
+    {
+      "name": "Hyūga"
+    },
+    {
+      "name": "Inuzuka"
+    },
+    {
+      "name": "Izuno"
+    },
+    {
+      "name": "Jūgo"
+    },
+    {
+      "name": "Kaguya"
+    },
+    {
+      "name": "Might"
+    },
+    {
+      "name": "Mitarashi"
+    },
+    {
+      "name": "Kamizuru"
+    },
+    {
+      "name": "Kato"
+    },
+    {
+      "name": "Kedōin"
+    },
+    {
+      "name": "Kohaku"
+    },
+    {
+      "name": "Haruno"
+    },
+    {
+      "name": "Kubisaki"
+    },
+    {
+      "name": "Kurama"
+    },
+    {
+      "name": "Nara"
+    },
+    {
+      "name": "Rinha"
+    },
+    {
+      "name": "Sarutobi"
+    },
+    {
+      "name": "Sendō"
+    },
+    {
+      "name": "Senju"
+    },
+    {
+      "name": "Shiin"
+    },
+    {
+      "name": "Shimura"
+    },
+    {
+      "name": "Shirogane"
+    },
+    {
+      "name": "Tatsushiro"
+    },
+    {
+      "name": "Tenrō"
+    },
+    {
+      "name": "Tsuchigumo"
+    },
+    {
+      "name": "Uchiha"
+    },
+    {
+      "name": "Uzumaki"
+    },
+    {
+      "name": "Wagarashi"
+    },
+    {
+      "name": "Wasabi"
+    },
+    {
+      "name": "Yamanaka"
+    },
+    {
+      "name": "Yakushi"
+    },
+    {
+      "name": "Yamashiro"
+    },
+    {
+      "name": "Otenki"
+    },
+    {
+      "name": "Yotsuki"
+    },
+    {
+      "name": "Yuki"
+    },
+    {
+      "name": "Yuhi"
+    },
+    {
+      "name": "Hozuki"
+    },
+    {
+      "name": "Hoshikage"
+    }
+  ],
+  "ninjas": [
+    {
+      "id": "295e16ee-bfd6-411b-9408-02919dcf64f8",
+      "about": "Boruto Uzumaki (うずまき ボルト Uzumaki Boruto?) é um personagem fictício criado pelo mangaká japonês Masashi Kishimoto. Aparece pela primeira vez no final da série de mangá Naruto como o filho do protagonista Naruto Uzumaki e Hinata Hyuga. Mais tarde desempenha um papel significativo no filme de 2015 Boruto: Naruto the Movie onde está treinando como um ninja para superar seu pai, o Sétimo Hokage. Também atua como protagonista da série de mangá e anime Boruto: Naruto Next Generations. No mangá, sua história começa com a narração do filme Boruto, enquanto o anime começa com sua infância na Academia Ninja, onde conhece seus futuros companheiros de equipe Sarada Uchiha, Mitsuki e seu professor Konohamaru Sarutobi.",
+      "info": {
+        "image": "https://c-cl.cdn.smule.com/rs-s77/arr/f2/ce/9c7c71b8-d5c6-40ab-8d07-82b878dfe5b2.jpg",
+        "name": "Boruto",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "b9f81ea7-eac1-4efe-bb51-17f35906c5b0",
+      "about": "Sarada Uchiha (うちはサラダ, Uchiha Sarada) é uma kunoichi de nível chūnin do clã Uchiha de Konohagakure e um membro do Time Konohamaru.",
+      "info": {
+        "image": "https://cdn141.picsart.com/331417007026201.png?type=webp&to=crop&r=256",
+        "name": "Sarada",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "ae2143bc-7ee6-4ad4-a0fc-83b826dd2986",
+      "about": "Mitsuki (ミツキ, Mitsuki) é um shinobi que veio de Otogakure para Konohagakure em busca de Boruto Uzumaki. Junto deste e de Sarada Uchiha, ele é um dos integrantes do Time Konohamaru.",
+      "info": {
+        "image": "https://i.pinimg.com/474x/f9/e3/a4/f9e3a42925b26a82e9956a0930d51c35.jpg",
+        "name": "Mitsuki",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "3cda8d5a-bd08-4150-9c76-9b2d0323d086",
+      "about": "Konohamaru Sarutobi (猿飛木ノ葉丸, Sarutobi Konohamaru) é um shinobi de Konohagakure, sendo nomeado com o mesmo nome da aldeia. Ele vem do clã Sarutobi e era um membro do Time Ebisu.",
+      "info": {
+        "image": "https://i.pinimg.com/736x/c9/bb/c3/c9bbc34cceab0894414cc128eddcd504.jpg",
+        "name": "Konohamaru",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "440855ea-0b13-4840-9fad-29d36c2c0774",
+      "about": "Akatsuchi (赤ツチ, Akatsuchi) é um shinobi de Iwagakure.",
+      "info": {
+        "image": "https://pm1.narvii.com/7813/cbad5040f0bb77049e0d82996cf0e73bd0120e67r1-641-479v2_00.jpg",
+        "name": "Akatsuchi",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "57ebf213-1dce-4acd-8a65-64bca00fc5c9",
+      "about": "Chiyo (チヨ, Chiyo) foi uma conselheira e kunoichi aposentada de Sunagakure. Ela também foi uma famosa marionetista e líder da Brigada de Marionetes e uma ninja médica.",
+      "info": {
+        "image": "https://pm1.narvii.com/6387/d1725367d30a7c69ac5c9368ca4d4802598fe5a4_hq.jpg",
+        "name": "Chiyo",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "8be534e6-39a1-41d8-b5ce-9dbaa3fbb86d",
+      "about": "Chōchō Akimichi (秋道チョウチョウ, Akimichi Chōchō) é uma kunoichi e um membro do clã Akimichi de Konohagakure. Juntamente com seus colegas Inojin Yamanaka e Shikadai Nara, ela forma a décima sétima geração do trio Ino-Shika-Chō.",
+      "info": {
+        "image": "https://a.wattpad.com/useravatar/Choi_KimJin.256.425526.jpg",
+        "name": "Chocho",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "9dce7cab-fcef-482f-a438-43646e6a241d",
+      "about": "Chōji Akimichi (秋道チョウジ, Akimichi Chōji) é um membro do clã Akimichi de Konohagakure. Embora seja sensível com relação ao seu peso, Chōji é, contudo, dedicado aos seus amigos, especialmente o Time Asuma. Anos mais tarde, ele se casa com Karui e tem uma filha.",
+      "info": {
+        "image": "http://maxkall.no.comunidades.net/imagens/akimichi_chouji.jpg",
+        "name": "Choji",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "4e17d48e-0946-46e4-93b2-f2db98698a0c",
+      "about": "Akimichi Chōza) é um shinobi de nível jōnin de Konohagakure e antigo companheiro de equipe de Shikaku Nara e Inoichi Yamanaka. Juntos, eles foram o trio Ino-Shika-Chō anterior. Ele é também o décimo quinto chefe do clã Akimichi (秋道15代目当主, Akimichi Jūgodaime Toshu).",
+      "info": {
+        "image": "https://www.giantbomb.com/a/uploads/scale_medium/13/135472/2260955-654px_chouza_akimichi.png",
+        "name": "Choza",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "15cfb176-cb8a-4a7a-a375-82a5f5ba8c66",
+      "about": "Anko Mitarashi (みたらしアンコ, Mitarashi Anko) é uma kunoichi de nível Tokubetsu Jōnin de Konohagakure.",
+      "info": {
+        "image": "http://images2.wikia.nocookie.net/__cb20110401203229/naruto/fr/images/f/f3/Anko.png",
+        "name": "Anko",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "96158b8a-b9e3-4b85-91fe-7ec06a5e6a8c",
+      "about": "Ao (青, Ao) foi um shinobi de Kirigakure e habilidoso o suficiente para ser um membro do esquadrão de busca do seu país. Após o fim da Quarta Guerra Mundial Ninja, ele entrou para a Kara e virou um nukenin.",
+      "info": {
+        "image": "http://pm1.narvii.com/6364/d25ba9b58a0843c6bf420801ebb047f92f05a94c_00.jpg",
+        "name": "Ao",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "2dc73797-735a-4e60-8a3c-7f9af71399ae",
+      "about": "Yamashiro Aoba) é um shinobi de nível Tokubetsu Jōnin de Konohagakure.",
+      "info": {
+        "image": "http://pm1.narvii.com/6353/230d78d55182e5970bc84dc8f575fa09f6292763_00.jpg",
+        "name": "Aoba",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "05b29a84-8f6e-4877-adf6-7b6f1bac3f7a",
+      "about": "Asuma Sarutobi (猿飛アスマ, Sarutobi Asuma) foi um jōnin do clã Sarutobi de Konohagakure, assim como um ex-membro dos Doze Guardiões Ninja. Ele também foi o líder do Time Asuma, que consistia em Shikamaru Nara, Ino Yamanaka e Chōji Akimichi.",
+      "info": {
+        "image": "https://pm1.narvii.com/6349/7ed73284648f76f8b2a0b546d6ccf13a59d34d39_hq.jpg",
+        "name": "Asuma",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "2eaf71e2-484d-4e8e-bdd5-590eea710618",
+      "about": "Dan Katō (加藤ダン, Katō Dan) foi um shinobi de nível Jōnin de Konohagakure. Dan também foi o Namorado de Tsunade.",
+      "info": {
+        "image": "https://i.pinimg.com/originals/c2/b2/aa/c2b2aacd29dd877e17ecaf82df03d8d8.jpg",
+        "name": "Dan",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "9ef6fedb-37ef-4b94-81ac-b1b97daf7587",
+      "about": "Baki (バキ, Baki) é um shinobi de nível jōnin de Sunagakure e um membro do conselho consultivo da vila.",
+      "info": {
+        "image": "https://vignette1.wikia.nocookie.net/naruto/images/5/5a/Baki.PNG/revision/latest?cb=20150828011127&path-prefix=es",
+        "name": "Baki",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "e33af515-a849-431f-b7f5-3719ec947557",
+      "about": "Deidara (デイダラ, Deidara) foi um nukenin de rank S de Iwagakure. Ele também foi um dos mais jovens membros da Akatsuki, e foi um parceiro de Sasori e Tobi consecutivamente antes de sua morte.",
+      "info": {
+        "image": "http://pm1.narvii.com/6442/00bce7ef0c50499671f150aa20abfe11885dd32d_00.jpg",
+        "name": "Deidara",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "00a6cd99-0c5d-4c3c-82dd-530ee2b5698e",
+      "about": "Naruto Uzumaki (うずまき ナルト Uzumaki Naruto?) é o protagonista da série Naruto. Ele foi o primeiro personagem criado por Kishimoto e foi concebido com muitas características de outros personagens de mangás shōnen. Na série, Naruto tem a ambição de se tornar Hokage, o líder da Vila da Folha. Por ele ser o hospedeiro de Kurama, a raposa de nove caudas que atacou Konoha, ele é desprezado pelos outros habitantes.",
+      "info": {
+        "image": "https://pbs.twimg.com/profile_images/1373722830186102785/9NVONdP0_400x400.jpg",
+        "name": "Naruto",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "fe2373cb-7265-401b-86b7-edb5845e0d82",
+      "about": "Sasuke Uchiha (うちは サスケ Uchiha Sasuke?) é um dos membros do Time 7. Ele foi criado para ser um rival de Naruto, bem como um gênio legal, que Kishimoto acreditava ser parte integrante de uma rivalidade ideal.",
+      "info": {
+        "image": "https://img.wattpad.com/cover/246826689-288-k594004.jpg",
+        "name": "Sasuke",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "5d25917b-5474-4ce3-9ee5-e734274d58b8",
+      "about": "Sakura Haruno (春野 サクラ Haruno Sakura?) é a única garota do Time 7. Kishimoto a criou como a heroína da série, apesar de ter admitido ter pouca percepção de como uma heroína ideal deveria ser.",
+      "info": {
+        "image": "https://i.pinimg.com/474x/2f/aa/9b/2faa9b25d363081d0b7b9768cd9e10e9.jpg",
+        "name": "Sakura",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "c7cb47e6-0169-4a65-a59a-3633d2454db7",
+      "about": "Kakashi Hatake (はたけ カカシ Hatake Kakashi?) é o líder do Time 7 e sensei de Naruto, Sasuke e Sakura. Originalmente, Kishimoto pretendia introduzir Kakashi mais cedo na série e o criou como uma pessoa tranquila que fosse capaz de manter os membros do Time 7 calmos e seguros. Seu pai, Sakumo Hatake, cometeu suicídio após ser criticado por todos por ter aberto mão de uma missão para salvar seus amigos.",
+      "info": {
+        "image": "http://pm1.narvii.com/7651/d63f7e9623eba36dc0c3cd717aecbe7c611913der1-500-376v2_00.jpg",
+        "name": "Kakashi",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "ca18d301-f479-4359-8abf-cf0043a64661",
+      "about": "Sai (サイ?) é um ninja que se junta ao Time 7 na Parte II. Por ter que substituir Sasuke na equipe, Kishimoto foi cuidadoso com sua concepção para fazê-lo se destacar.[28] Como membro da Fundação desde criança, foi treinado para não possuir ou demonstrar qualquer tipo de emoção ou compaixão.",
+      "info": {
+        "image": "https://i.pinimg.com/736x/b0/ed/b7/b0edb7ed1010f7ecdb3b3b5bd24b50e8.jpg",
+        "name": "Sai",
+        "level": "Anbu",
+        "clan": ""
+      }
+    },
+    {
+      "id": "acc21bd2-bb1d-4932-aef9-a9163dddc4cf",
+      "about": "Yamato (ヤマト?) conhecido por Kakashi como Tenzou (テンゾウ Tenzō?) e originalmente chamado de Kinoe (甲?) é apresentado durante a Parte II da série como um membro da ANBU e um substituto temporário para Kakashi Hatake como o líder do Time 7. Após o retorno de Kakashi, ele permanece na equipe em uma posição de liderança adicional.",
+      "info": {
+        "image": "https://pm1.narvii.com/6349/3ab89488ab7fcde49d1c39101657fda7e21f9c49_hq.jpg",
+        "name": "Yamato",
+        "level": "Anbu",
+        "clan": ""
+      }
+    },
+    {
+      "id": "1624b918-78af-4e56-8bcf-c6011b95b666",
+      "about": "Kiba Inuzuka (犬塚 キバ Inuzuka Kiba?) é um membro do time 8 caracterizado por uma série de características caninas tais como ser muito protetor de seus companheiros e ter sentidos extremamente aguçados, como o olfato.",
+      "info": {
+        "image": "http://maxkall.no.comunidades.net/imagens/kiba_inuzuka_and_akamaru.jpg",
+        "name": "Kiba",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "62bb02ec-acae-4e37-8891-c91419b20133",
+      "about": "Hinata Hyuga (日向ヒナタ Hyūga Hinata?) é um membro do Time 8, que sofre com falta de auto-confiança, sentimentalismo e medo ao longo da série. Ela é sempre relutante em falar o que pensa ou fazer algo que possa contrariar alguém.",
+      "info": {
+        "image": "http://pm1.narvii.com/6503/a1bbfff165c7c3c9e5aa3d46811f606e6db368f1_00.jpg",
+        "name": "Hinata",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "73ee1c27-de72-40fe-8e70-30446a4c64c9",
+      "about": "Shino Aburame (油女 シノ Aburame Shino?) é um dos membros do Time 8 e é fascinado por insetos; ele gasta seu tempo livre capturando e estudando insetos e às vezes os usa em analogias durante conversas. Há uma profunda ligação com insetos em sua família, já que cada pessoa que nasce no clã Aburame tem implantada uma raça especial de insetos conhecidos como insetos destruidores (寄壊蟲 kikaichū?) dentro de seu corpo.",
+      "info": {
+        "image": "http://pm1.narvii.com/6343/3ac6a900d04195b029056d528fadf0b0f80852a9_00.jpg",
+        "name": "Shino",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "592b4bf8-a707-4d7d-bf7d-627374b3ea5d",
+      "about": "Kurenai Yuhi (夕日 紅 Yūhi Kurenai?) é a líder do Time 8. Entre todos seus alunos, o mais a ela próxima é Hinata, para qual ela age como um pai substituto na ausência do seu e ajuda-a superar suas fraquezas.",
+      "info": {
+        "image": "https://pm1.narvii.com/6310/02d6dea3bcf24fddd54e510fbc8d494adb992d55_hq.jpg",
+        "name": "Kurenai",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "adbacf93-d51e-40d0-994c-0b5bd12a988f",
+      "about": "Neji Hyuga (日向 ネジ Hyūga Neji?) foi um membro do Time Guy e uma criança prodígio do clã Hyuga, e também o primo de Hinata. Apesar de seu talento natural, ele é impedido de aprender as técnicas mais secretas do clã por não ser de sua ramificação principal.",
+      "info": {
+        "image": "https://i.pinimg.com/736x/40/7c/f2/407cf2c42d295369dea1fa4ed775d26c.jpg",
+        "name": "Neji",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "d7693f49-2b91-42cb-a062-4b63a0a51a44",
+      "about": "Tenten (テンテン?) é a garota do Time Guy e anseia em provar que uma ninja pode ser tão habilidoso como um ninja. Seguindo essa crença deixa de lado as inúmeras técnicas ninjas e utiliza somente armas ou ferramentas padrões de um ninja.",
+      "info": {
+        "image": "http://pm1.narvii.com/6297/050ff63386390ae8c778dd8b53efc18693319e04_00.jpg",
+        "name": "Tenten",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "cb3c3264-8aaf-414b-836d-4c82c41729c7",
+      "about": "Rock Lee (ロック・リー Rokku Rī?) é um membro do Time Guy e o estudante favorito do líder da equipe, Might Guy. Na academia ninja, ele era incapaz de usar ninjutsu e genjutsu, mas sua persistência impressionou Guy.",
+      "info": {
+        "image": "https://i.pinimg.com/originals/5e/dc/2f/5edc2f450f1005470d92537d94a6ebce.jpg",
+        "name": "Rock Lee",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "e820c30e-2a79-43b2-98cd-bfe8b6d5fee8",
+      "about": "Might Guy (マイト・ガイ Maito Gai?) é o líder do Time Guy, e dedica a maior parte de seu tempo a apenas um de seus estudantes, Rock Lee. Por conta de sua dedicação a ele, Lee inspirou-se na imagem de seu mestre, imitando o macacão verde de Guy e seu corte de cabelo tigela. Lee também adotou muitos dos maneirismos de Guy, incluindo sua filosofia Minhas Regras, que envolve a definição de rígidas punições auto-impostas, pois na concepção dele, isso vai torná-lo mais forte.",
+      "info": {
+        "image": "http://pm1.narvii.com/6893/60ea965c9d8b7525e14234ad20f46522ecdce407r1-1072-927v2_uhq.jpg",
+        "name": "Guy",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "6080d986-a6a1-48d3-8306-2ef465715dc2",
+      "about": "Shikamaru Nara (奈良 シカマル Nara Shikamaru?) é um dos membros do Time 10. Kishimoto observou que ele gosta de Shikamaru, devido à sua natureza calma apesar de ser um gênio, o que contrasta com a personalidade inteligente, mas abrasiva de Sasuke Uchiha.",
+      "info": {
+        "image": "http://pm1.narvii.com/6308/79e42749545977cb53516b7fd2ac25944f4877a9_00.jpg",
+        "name": "Shikamaru",
+        "level": "Genin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "4a8bad23-7bac-419c-8cd7-2b95c84b3ec1",
+      "about": "Suigetsu Hōzuki (z 灯 水月 Hōzuki Suigetsu?) é o primeiro membro a se unir. Originalmente de Kirigakure, seu objetivo é reivindicar todas as espadas empunhadas pelos Sete Espadachins da Névoa, e dali reformar a organização em memória de seu falecido irmão Mangetsu, que também era membro.",
+      "info": {
+        "image": "https://pm1.narvii.com/6289/f5217e182d329ef1f82543929aa6dc17a4ff573c_hq.jpg",
+        "name": "Suigetsu",
+        "level": "Renegado",
+        "clan": ""
+      }
+    },
+    {
+      "id": "4df31bad-a5b0-4f7a-990d-9e729f858d64",
+      "about": "Karin (香 燐?) é o segundo membro de Taka e um membro do clã Uzumaki ao qual Naruto pertence. Ela era originalmente de Kusagakure e mais tarde outra vila sem nome, mas depois que a última foi destruída, ela foi levada por Orochimaru, tornando-se uma serva leal a ele. Depois de encontrar brevemente Sasuke durante os exames de Chunin, ela se viciou nele e decidiu se juntar a Taka para ficar ao seu lado. Karin foi gravemente ferido por Sasuke durante sua batalha contra Danzo, e depois que ele a deixou para trás, Karin foi preso por Kakashi, por sua vez, encontrando Naruto pela primeira vez.",
+      "info": {
+        "image": "https://i.pinimg.com/474x/0e/8b/e4/0e8be4ceb8fa0e2f36e330d13c240b27.jpg",
+        "name": "Karin",
+        "level": "Renegado",
+        "clan": ""
+      }
+    },
+    {
+      "id": "4204d540-1cad-4e0b-93e5-05ee7e9c83c3",
+      "about": "Juugo (重 吾 Jūgo?) é o terceiro membro do Taka. Seu clã tem a capacidade de usar senjutsu, mas devido à grande quantidade de energia natural que eles absorvem, eles são propensos a ataques de extrema violência, com efeitos colaterais adicionais, pois eles podem reverter para uma forma infantil se a usarem da maneira errada.",
+      "info": {
+        "image": "https://pbs.twimg.com/profile_images/1359886323876847625/EnFJavUT_400x400.jpg",
+        "name": "Juugo",
+        "level": "Renegado",
+        "clan": ""
+      }
+    },
+    {
+      "id": "103f6354-c838-46bf-8f80-3f81ccc8c334",
+      "about": "Kabuto Yakushi (薬師 カブト Yakushi Kabuto?) é o leal espião e braço direito de Orochimaru, inicialmente introduzido como um experiente genin da Vila da Folha que auxilia o Time 7 durante o Exame Chunnin.",
+      "info": {
+        "image": "http://pm1.narvii.com/6539/3e609256926268bb0ba42e437ad4ecf959bf83f7_00.jpg",
+        "name": "Kabuto",
+        "level": "Jounin",
+        "clan": ""
+      }
+    },
+    {
+      "id": "7ff9b81c-41da-4c6a-95aa-0fd5199bcf52",
+      "about": "Jirobo (次郎坊 Jirōbō?) É um homem grande especializado em combates corpo-a-corpo que pode absorver o chakra do inimigo.",
+      "info": {
+        "image": "http://pm1.narvii.com/6829/940ea2592393a56a328b14bb6904a9ba5e17eee8v2_00.jpg",
+        "name": "Jirobo",
+        "level": "Renegado",
+        "clan": ""
+      }
+    },
+    {
+      "id": "b6ef8765-5864-42b6-9dc6-535b35a60d7f",
+      "about": "Kidomaru (鬼童丸 Kidōmaru?), um ninja de seis braços que consegue produzir teias de aranha para lutar e é especialista em combates à longa distância.",
+      "info": {
+        "image": "https://www.giantbomb.com/a/uploads/square_small/0/5756/330403-kidomaru.jpg",
+        "name": "Kidoumaru",
+        "level": "Renegado",
+        "clan": ""
+      }
+    },
+    {
+      "id": "f65b0d0f-301b-48c2-8e93-3bbe5bb7e968",
+      "about": "Sakon (左近?) e Ukon (右近?), os mais fortes do Quarteto do Som, dois irmãos gêmeos que podem combinar seus corpos,",
+      "info": {
+        "image": "https://i.pinimg.com/originals/8e/e2/85/8ee28593e4955182f28170493fbdc1bf.png",
+        "name": "Sakon",
+        "level": "Renegado",
+        "clan": ""
+      }
+    },
+    {
+      "id": "73eceec7-cbb0-45fa-b9ca-4f22330380dd",
+      "about": "Tayuya (多由也?), a única kunoichi de seu grupo, ela usa sua flauta para controlar demônios que ela mesma invoca e criar ilusões.",
+      "info": {
+        "image": "https://img.wattpad.com/3e4128c761d054dd1bfaec84942e67d890cca89e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f67625a4e4538326e5762513170673d3d2d332e313637656431313830383363303062303135343635383532373636332e6a7067?s=fit&w=720&h=720",
+        "name": "Tayuya",
+        "level": "Renegado",
+        "clan": ""
+      }
+    },
+    {
+      "id": "72093f91-944b-4e39-bfb6-fce40a3d2625",
+      "about": "Kimimaro (君 麻 呂?), o último do Clã Kaguya que tem a habilidade Kekkei Genkai de seus parentes em manipular sua estrutura óssea, chamada Shikotsumyaku, tornou-se o líder depois que ele derrotou o grupo inteiro em batalha. Ele é dublado por Toshiyuki Morikawa no anime japonês, com Makoto Tsumura dublando-o quando criança.",
+      "info": {
+        "image": "http://4.bp.blogspot.com/_g4jV5eUSPKE/R_e8zwx763I/AAAAAAAAAfU/06dBOFTCZRs/w1200-h630-p-k-no-nu/_Kimimaro_.jpg",
+        "name": "Kimimaro",
+        "level": "Renegado",
+        "clan": ""
+      }
+    },
+    {
+      "id": "9728eee3-a6ef-4005-a37b-ed5b3e0ed2a2",
+      "about": "Madara Uchiha (うちは マダラ Uchiha Madara?) é um dos fundadores da Vila da Folha e o líder do clã Uchiha",
+      "info": {
+        "image": "https://uploads.spiritfanfiction.com/historias/capas/202011/um-amor-inesperado-madara-e-leitora-20939977-061120201039.png",
+        "name": "Madara",
+        "level": "Kage",
+        "clan": ""
+      }
+    },
+    {
+      "id": "4636418b-2c1f-407c-9737-5492a9f7089e",
+      "about": "Tobi (トビ?), cujo verdadeiro nome é Obito Uchiha (うちはオビト Uchiha Obito?), é o líder da Akatsuki que inicialmente age como um membro qualquer do grupo. Ele aparece pela primeira vez como uma pessoa descontraída e brincalhona cujas ações muitas vezes resultam em ser atacado por seu parceiro, Deidara.",
+      "info": {
+        "image": "https://criticalhits.com.br/wp-content/uploads/2019/02/tobi-uchiha-obito-32599615-1280-720.jpg",
+        "name": "Tobi",
+        "level": "Renegado",
+        "clan": ""
+      }
+    },
+    {
+      "id": "7880f018-fa17-4478-b10c-4263bec4e916",
+      "about": "Konan (小南?) é a única kunoichi da Akatsuki. Como tal, Kishimoto originalmente queria que ela tivesse uma aparência obscena mostrando mais de seu busto.",
+      "info": {
+        "image": "https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2021/11/legiao_6_x473lwEAeH.jpg.jpeg",
+        "name": "Konan",
+        "level": "Renegado",
+        "clan": ""
+      }
+    },
+    {
+      "id": "404d0a01-62c2-45c0-841a-e65734a4c9d7",
+      "about": "Zetsu (ゼツ?) é o único membro da Akatsuki que normalmente age sem um parceiro. Isto é em parte por conta de sua habilidade de se fundir com qualquer objeto e rapidamente viajar para um local diferente, algo que apenas poucos outros ninjas são capazes de fazer. Devido a isso ele tem várias funções dentro da organização, uma delas é agir como um espião que observa e relata as batalhas de interesse.",
+      "info": {
+        "image": "http://pm1.narvii.com/6534/f0d404f1b1aa1df63c7a0ad3e7a4d32c1562c20f_00.jpg",
+        "name": "Zetsu",
+        "level": "Renegado",
+        "clan": ""
+      }
+    },
+    {
+      "id": "81bd801b-743b-441f-8dfd-ab9a8a777ab4",
+      "about": "Sasori (サソリ?) é um antigo ninja da Vila Oculta da Areia que possui o apelido de Sasori da Areia Vermelha (赤砂のサソリ Akasuna no Sasori?). Seus pais foram mortos por Sakumo Hatake, o pai de Kakashi, deixando ele sobre os cuidados de sua avó Chiyo. Ela o ensinou a arte de controlar marionetes através de fios infudidos com chakra e ele a aprofundou para atender suas necessidades.",
+      "info": {
+        "image": "http://pm1.narvii.com/6365/7733d9b219f83b6d1ef5c368f111dbe27d476861_00.jpg",
+        "name": "Sasori",
+        "level": "Renegado",
+        "clan": ""
+      }
+    },
+    {
+      "id": "44554dc1-b961-47ad-a54c-3d5b1957f668",
+      "about": "Itachi Uchiha (うちは イタチ Uchiha Itachi?) é um antigo ninja da Vila da Folha e parceiro de Kisame Hoshigaki. Apesar de ter vivido sua infância como a criança prodígio do clã Uchiha, Itachi é tratado como um vilão em grande parte da história.",
+      "info": {
+        "image": "https://sm.ign.com/ign_br/screenshot/3/3o-itachi-/3o-itachi-uchiha_k81j.jpg",
+        "name": "Itachi",
+        "level": "Renegado",
+        "clan": ""
+      }
+    },
+    {
+      "id": "34ee2c1c-4eea-46fb-9327-4d182b6468bb",
+      "about": "Kisame Hoshigaki (干柿 鬼鮫 Hoshigaki Kisame?) é um antigo ninja da Vila Oculta da Névoa e parceiro de Itachi Uchiha. Ele têm uma aparência única, com a pele azul, um rosto com brânquias e dentes triangulares e afiados. Na época em que ainda era leal a Vila da Névoa, Kisame foi um dos sete Espadachins da Névoa, um grupo de ninjas violentos que usam espadas particularmente grandes para lutar. Sua espada, Samehada (鮫肌?), é uma arma viva coberta por escamas que podem absorver quantidades incalculáveis ​​de chakra de seus oponentes.",
+      "info": {
+        "image": "https://i.pinimg.com/736x/71/3e/38/713e38bce1563aabed30fd412abf485b.jpg",
+        "name": "Kisame",
+        "level": "Renegado",
+        "clan": ""
+      }
+    }
+  ]
+}
