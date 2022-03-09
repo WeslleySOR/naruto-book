@@ -6,7 +6,18 @@ export const Container = styled('div', {
     margin: '1rem auto',
     padding: '2rem',
     minWidth: '70%',
-    maxWidth: '70%'
+    maxWidth: '70%',
+    '@media (max-width: 768px)': {
+        flexDirection: 'column',
+        alignItems: 'center',
+        gap: '6rem',
+        minWidth: '100%',
+        padding: '1rem'
+    },
+    '@media (max-width: 425px)': {
+        gap: '4rem',
+        padding: '0.5rem'
+    }
 })
 
 export const CharacterHeader = styled('div', {
@@ -29,6 +40,44 @@ export const CharacterHeader = styled('div', {
         width: '256px',
         height: '256px',
         borderRadius: '10%'
+    },
+    '@media (max-width: 768px)': {
+        '.div-info' :{
+            'h1':{
+                fontSize: 'var(--font-size--small)',
+                fontWeight: '500',
+                marginRight: '0.5rem'
+            },
+            'span': {
+                fontSize: 'var(--font-size--small)',
+                color: 'rgba(255, 60, 20, 0.9)',
+                fontWeight: '700',
+            }
+        },
+        '.div-image':{
+            width: '256px',
+            height: '256px',
+            borderRadius: '10%'
+        },
+    },
+    '@media (max-width: 425px)': {
+        '.div-info' :{
+            'h1':{
+                fontSize: 'var(--font-size--smallx)',
+                fontWeight: '500',
+                marginRight: '0.5rem'
+            },
+            'span': {
+                fontSize: 'var(--font-size--smallx)',
+                color: 'rgba(255, 60, 20, 0.9)',
+                fontWeight: '700',
+            }
+        },
+        '.div-image':{
+            width: '192px',
+            height: '192px',
+            borderRadius: '10%'
+        }
     }
 })
 
@@ -52,6 +101,33 @@ export const CharacterContent = styled('div', {
             fontWeight: '500',
             textAlign: 'center'
         }
+    },
+    '@media (max-width: 768px)': {
+        width: '90%',
+        'span': {
+            fontSize: 'var(--font-size--small)',
+            lineHeight: '24px'
+        },
+        '> div': {
+            'h1': {
+                fontSize: 'var(--font-size--medium)',
+                fontWeight: '500',
+                textAlign: 'center'
+            }
+        },
+    },
+    '@media (max-width: 425px)': {
+        'span': {
+            fontSize: 'var(--font-size--smallx)',
+            lineHeight: '24px'
+        },
+        '> div': {
+            'h1': {
+                fontSize: 'var(--font-size--small)',
+                fontWeight: '500',
+                textAlign: 'center'
+            }
+        },
     }
 })
 
@@ -76,6 +152,19 @@ export const ButtonGroup = styled('div', {
         transition: 'filter 0.2s',
         '&:hover': {
             filter: 'brightness(0.9)'
+        }
+    },
+    '@media (max-width: 768px)': {
+        'button': {
+            fontSize: 'var(--font-size--small)',
+        },
+        'span': {
+            display: 'none'
+        }
+    },
+    '@media (max-width: 425px)': {
+        'button': {
+            fontSize: 'var(--font-size--smallx)',
         }
     }
 })

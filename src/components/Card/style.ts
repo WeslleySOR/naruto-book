@@ -23,5 +23,19 @@ export const Container = styled('div', {
         'h1': {
             opacity: '1'
         }
+    },
+    '@media (max-width: 768px)': {
+        maxWidth: '128px',
+        height: '128px',
+        'h1': {
+            fontSize: 'var(--font-size--small)',
+        }
+      },
+    '@media (max-width: 425px)': {
+        maxWidth: '64px',
+        height: '64px',
+        'h1': {
+            fontSize: 'var(--font-size--smallx)',
+        }
     }
 })

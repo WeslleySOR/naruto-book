@@ -23,8 +23,8 @@ export function EditNinjaModal({ isOpen, onResquestClose }: EditNinjaModalProps)
     const [about, setAbout] = useState('');
     const [name, setName] = useState('');
     const [image, setImage] = useState('');
-    const [level, setLevel] = useState('Desconhecido');
-    const [clan, setClan] = useState('Desconhecido');
+    const [level, setLevel] = useState('');
+    const [clan, setClan] = useState('');
 
     const getActualCharacterInfo = () => {
         const index = characters.findIndex(char => location.pathname.includes(char.id ? char.id: ''))
@@ -32,16 +32,17 @@ export function EditNinjaModal({ isOpen, onResquestClose }: EditNinjaModalProps)
             setAbout(characters[index].about)
             setName(characters[index].info.name)
             setImage(characters[index].info.image)
-            setLevel(characters[index].info.level === '' ? 'Desconhecido' : characters[index].info.level)
-            setClan(characters[index].info.clan === '' ? 'Desconhecido' : characters[index].info.clan)
+            setLevel(characters[index].info.level)
+            setClan(characters[index].info.clan)
         }
     }
 
     async function handleEditCharacter(event: FormEvent) {
         event.preventDefault();
         if(about !== '' && name !== '' && level !== '' && image !== '' && clan !== ''){
+            let newCharactersArray = characters
             const index = characters.findIndex(char => location.pathname.includes(char.id ? char.id: ''))
-            let newCharacter = {
+            newCharactersArray[index] = {
                 id: characters[index].id,
                 about: about,
                 info: {
@@ -51,7 +52,17 @@ export function EditNinjaModal({ isOpen, onResquestClose }: EditNinjaModalProps)
                     clan: clan
                 }
             }
-            console.log(newCharacter)
+            api.put(`/ninjas/${characters[index].id}`, {
+                id: characters[index].id,
+                about: about,
+                info: {
+                    image: image,
+                    name: name,
+                    level: level,
+                    clan: clan
+                }
+            })
+            setCharacters(newCharactersArray)
             getActualCharacterInfo()
             onResquestClose()
         }
@@ -63,7 +74,7 @@ export function EditNinjaModal({ isOpen, onResquestClose }: EditNinjaModalProps)
         if(characters.length > 0){
             getActualCharacterInfo()
         }
-    },)
+    },[location.pathname])
     return (
         <Container 
             isOpen={isOpen} 

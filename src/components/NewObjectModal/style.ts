@@ -2,13 +2,18 @@ import { styled } from "@stitches/react";
 import Modal from 'react-modal';
 
 export const Container = styled(Modal, {
-    
+  '@media (max-width: 768px)': {
+    width: '80%'
+  },
+  '@media (max-width: 425px)': {
+    width: '80%'
+  }
 })
 
 export const Content = styled('form', {
     'h2': {
         color: '#fff',
-        fontSize: '2.4rem',
+        fontSize: 'var(--font-size--large)',
         marginBottom: '2rem'
       },
       'label': {
@@ -31,10 +36,6 @@ export const Content = styled('form', {
     
         '&::placeholder': {
           color: 'rgba(12,12,12,0.4)',
-        },
-    
-        '& + input': {
-          marginTop: '1rem',
         }
       },
       'select': {
@@ -68,5 +69,55 @@ export const Content = styled('form', {
         '&:hover': {
           'filter': 'brightness(0.9)',
         }
+      },
+      '@media (max-width: 768px)': {
+        'h2': {
+          marginBottom: '1rem'
+        },
+        'label': {
+          fontSize: 'var(--font-size--small)',
+        },
+        'input': {
+          padding: '0 1rem',
+          height: '3rem',
+          fontSize: 'var(--font-size--small)',
+        },
+        'select': {
+          padding: '0 1rem',
+          height: '3rem',
+          fontSize: 'var(--font-size--small)'
+        },
+        'select, input': {
+          marginBottom: '0.5rem'
+        },
+        'button[type="submit"]': {
+          padding: '0 1rem',
+          height: '4rem',
+          fontSize: 'var(--font-size--small)',
+        },
+      },
+      '@media (max-width: 425px)': {
+        'h2': {
+          fontSize: 'var(--font-size--medium)',
+          marginBottom: '0.5rem'
+        },
+        'label': {
+          fontSize: 'var(--font-size--smallx)',
+        },
+        'input': {
+          padding: '0 0.5rem',
+          height: '2rem',
+          fontSize: 'var(--font-size--smallx)',
+        },
+        'select': {
+          padding: '0 0.5rem',
+          height: '2rem',
+          fontSize: 'var(--font-size--smallx)'
+        },
+        'button[type="submit"]': {
+          padding: '0 0.5rem',
+          height: '3rem',
+          fontSize: 'var(--font-size--smallx)',
+        },
       }
 })

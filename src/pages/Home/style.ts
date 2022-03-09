@@ -21,4 +21,12 @@ export const Content = styled('div', {
     gridTemplateColumns: 'repeat(auto-fit, 160px)',
     justifyContent: 'center',
     gap: '1.5rem',
+    '@media (max-width: 768px)': {
+        gridTemplateColumns: 'repeat(auto-fit, 128px)',
+        gap: '1.25rem'
+    },
+    '@media (max-width: 425px)': {
+        gridTemplateColumns: 'repeat(auto-fit, 64px)',
+        gap: '1rem'
+    }
 })

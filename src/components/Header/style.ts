@@ -12,6 +12,24 @@ export const Container =  styled('header', {
     'img': {
         width: '256px',
         cursor: 'pointer'
+    },
+    '@media (max-width: 768px)': {
+        'img': {
+            width: '128px',
+            cursor: 'pointer'
+        },
+        'h1': {
+            fontSize: 'var(--font-size--small)'
+        }
+    },
+    '@media (max-width: 425px)': {
+        'img': {
+            width: '64px',
+            cursor: 'pointer'
+        },
+        'h1': {
+            fontSize: 'var(--font-size--smallx)'
+        }
     }
 })
 
@@ -38,5 +56,15 @@ export const Button = styled('button', {
     '&:disabled': {
         background: 'rgba(12, 12, 12, 0.1)',
         cursor: 'not-allowed'
+    },
+    '@media (max-width: 768px)': {
+        padding: '1.2rem 1.2rem',
+        fontSize: 'var(--font-size--small)',
+        borderRadius: '12px'
+    },
+    '@media (max-width: 425px)': {
+        padding: '0.8rem 0.8rem',
+        fontSize: 'var(--font-size--smallx)',
+        borderRadius: '8px'
     }
 })

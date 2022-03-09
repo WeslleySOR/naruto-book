@@ -54,10 +54,10 @@ export function Ninja({ onOpenEditNinjaModal }: NinjaProps) {
                             className="div-info"
                         >
                             <h1>Nome: 
-                                {/* <span>{characterClan?.name} </span> */}
+                                <span>{characters.find(char => char.id === id)?.info.clan !== 'Desconhecido' ? characters.find(char => char.id === id)?.info.clan : ''} </span>
                                 <span>{characters.find(char => char.id === id)?.info.name}</span>
                             </h1>
-                            {/* <h1>Clan: <span>{characterClan?.name ? characterClan?.name : 'Desconhecido'}</span></h1> */}
+                            <h1>Clan: <span>{characters.find(char => char.id === id)?.info.clan !== 'Desconhecido' ? characters.find(char => char.id === id)?.info.clan : 'Desconhecido'}</span></h1>
                             <h1>Patente ninja: <span>{characters.find(char => char.id === id)?.info.level}</span></h1>
                         </div>
                     </CharacterHeader>
@@ -65,8 +65,8 @@ export function Ninja({ onOpenEditNinjaModal }: NinjaProps) {
                         <div>
                             <h1>História</h1>
                             <ButtonGroup>
-                                <button onClick={onOpenEditNinjaModal}>Editar<BsPencilSquare/></button>
-                                <button onClick={() => deleteCharacter()}>Apagar<BiTrash/></button>
+                                <button onClick={onOpenEditNinjaModal}><span>Editar</span><BsPencilSquare/></button>
+                                <button onClick={() => deleteCharacter()}><span>Apagar</span><BiTrash/></button>
                             </ButtonGroup>
                         </div>
                         <span>{characters.find(char => char.id === id)?.about}</span>
